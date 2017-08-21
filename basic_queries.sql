@@ -30,4 +30,4 @@ update books set title = 'dance with clown' where id = 69;
 -- Delete your books
 delete from books where author_id = 9;
 -- Delete your author entry
-
+delete from authors where name = 'Hung Muhamath';
